@@ -21,7 +21,7 @@ Provide a clean dataset for analysis and reporting
 
 Ready to be used with tools like SQL, Power BI, Tableau, or Python
 
-🗂️ Dataset Details
+🗂️ Dataset Details:
 
 The STUDENT_DATA.xlsx file is structured and can be directly imported into:
 
@@ -37,7 +37,7 @@ Python / R for data analysis and machine learning
 
 Clone this repository:
 
-git clone https://github.com/your-username/Student-Data-Management.git
+git clone https://github.com/your-username/Student-Performance-Analysis.git
 
 
 Open STUDENT_DATA.xlsx in Excel or any spreadsheet tool.
