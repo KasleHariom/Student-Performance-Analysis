@@ -46,7 +46,7 @@ Python / R for data analysis and machine learning
 
 Clone this repository:
 
-git clone https://github.com/your-username/Student-Performance-Analysis.git
+git clone https://github.com/KasleHariom/Student-Performance-Analysis.git
 
 
 Open STUDENT_DATA.xlsx in Excel or any spreadsheet tool.
